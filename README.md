@@ -1,7 +1,7 @@
 ### Questions and tasks
 
 1. How many bytes do we need to send the following text without encoding and
-including spaces and newlines (\r\n)?
+including spaces, CR (\r) and newlines (\n)?
 
     a)
     ```
