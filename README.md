@@ -21,8 +21,8 @@ including spaces and newlines (\r\n)?
 
 2. How many bytes do we need to send the same text values from point 1 with the implemented dictionary encoding? 
 
-3. Extend the existing solution to allow **orange** to send text messages to **kiwi** composed
-of the given words and codes. Input text example:
+3. Extend the existing solution to allow **orange** to send text messages (using the given words and codes) to **kiwi**. 
+Input text example:
 
 ```
 first
